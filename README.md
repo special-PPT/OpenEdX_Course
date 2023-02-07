@@ -1,5 +1,9 @@
 # OpenEdX_Course
-Group Members: Jonilda Bahja, Xiao Hu, Kavya Venkatesh, Hang Wei
+Group Members: 
+* Jonilda Bahja (jonildab@vt.edu)
+* Xiao Hu (xiaohu@vt.edu)
+* Kavya Venkatesh (kavyav@vt.edu)
+* Hang Wei (hangwei@vt.edu)
 
 ## Project Description
 
