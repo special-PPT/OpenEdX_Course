@@ -18,6 +18,13 @@ Create an Open EdX course using content aligned to a CANVAS Course utilized at V
 5. A minimum of one month of course content must be developed
 6. Provide recommendation on badging or certificate offerings
 
+## Project Definition
+This google doc will have a detailed description of our [project definition](https://docs.google.com/document/d/1tpJ0md0m4MdL465Ara74Fs_J4_8csIGBpq9ic83vQcE/edit#)
+
+
+## Project Schedule
+We use Cartt Chart to record our progress, it is the link [Gantt Chart](https://docs.google.com/spreadsheets/d/1MzGSd8dz8q-7yN98zED0fRNplgpkMKvnIX1RUTRVGwM/edit#gid=0)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
