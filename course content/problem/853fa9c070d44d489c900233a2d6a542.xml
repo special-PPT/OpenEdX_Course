@@ -1,0 +1,9 @@
+<problem display_name="Pre-test" markdown="null">
+<stringresponse answer="the correct answer" type="ci">
+  <label>Dr. Smith mentioned that it took him 8 hours to develop a solution concept for the
+sustainable/Renewable energy problem space. How much time (approximately) did your team
+collectively spend in address</label>
+<additional_answer answer="optional acceptable variant of the correct answer"/>
+  <textline size="270"/>
+</stringresponse>
+</problem>

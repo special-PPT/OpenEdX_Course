@@ -1,0 +1,31 @@
+<problem display_name="Project Choices" markdown="null"><p><span style="font-family: georgia, palatino;">Phase 3 of the Studio will be focusing on <strong>problem &amp; solution analysis</strong> <strong>also the development of a prototype</strong>.</span></p>
+<p style="font-family: georgia, palatino;">You participated in the project presentations of PDR. Had an opportunity to discuss the details of these projects with your peers in class. Additionally, received feedback from project mentors and your classmates.</p>
+  <p style="font-family: georgia, palatino;">Using the proper names of the teams: Team Ergo: Production Operations || CHDP Lakers (All wheels up) || Battery Sustainability || OpenEdX Experiences || Breaking Down the Occupational Data Problem || Urban Air Mobility (Air Taxi) </p>
+  <p style="font-family: georgia, palatino;">and based on your conversations: </p>
+  <p style="font-family: georgia, palatino;">Choose 3 projects that you are interested in and rank them based on your preferences. In a paragraph discuss why chose each projects (one paragraph per project). </p>
+  <p style="font-family: georgia, palatino;">Note that even if you are in a team and would like to stay in the same you still need to respond to this assignment and pick three projects. Your first choice will be your existing team if you would like to keep working on the project in Phase 3.</p>
+  <label>Project Name 1</label>
+  <stringresponse answer="answer" type="ci">
+  <textline size="20"/>
+</stringresponse>
+  <label>Description</label>
+  <stringresponse answer="answer" type="ci">
+  <textline size="200"/>
+</stringresponse>
+  <label>Project Name 2</label>
+  <stringresponse answer="answer" type="ci">
+  <textline size="20"/>
+</stringresponse>
+  <label>Description</label>
+  <stringresponse answer="answer" type="ci">
+  <textline size="200"/>
+</stringresponse>
+  <label>Project Name 3</label>
+  <stringresponse answer="answer" type="ci">
+  <textline size="20"/>
+</stringresponse>
+  <label>Description</label>
+  <stringresponse answer="answer" type="ci">
+  <textline size="200"/>
+</stringresponse>
+</problem>

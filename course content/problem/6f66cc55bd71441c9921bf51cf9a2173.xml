@@ -1,0 +1,9 @@
+<problem display_name="Pre-test" markdown="null">
+<stringresponse answer="the correct answer" type="ci">
+  <label>Was the relationship between Thinking frameworks, I4.0 Enabling technologies, NAE grand
+challenges in addressing the problem clear? How was this similar or different from your team’s
+approach?</label>
+<additional_answer answer="optional acceptable variant of the correct answer"/>
+  <textline size="270"/>
+</stringresponse>
+</problem>

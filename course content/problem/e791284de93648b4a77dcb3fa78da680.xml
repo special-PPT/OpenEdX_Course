@@ -1,0 +1,13 @@
+<problem display_name="5" markdown="&gt;&gt;What perspectives are parameters of a complex problem space?  Choose all that apply.&lt;&lt;&#10;&#10;[x] Stakeholder Input&#10;[ ] Level of Abstraction&#10;[ ] Context of User Application&#10;[ ] Hardware&#10;[ ] Function&#10;[ ] Enabling Technologies&#10;" weight="2.0">
+<choiceresponse>
+  <label>What perspectives are parameters of a complex problem space?  Choose all that apply.</label>
+<checkboxgroup>
+    <choice correct="true">Stakeholder Input</choice>
+    <choice correct="false">Level of Abstraction</choice>
+    <choice correct="false">Context of User Application</choice>
+    <choice correct="false">Hardware</choice>
+    <choice correct="false">Function</choice>
+    <choice correct="false">Enabling Technologies</choice>
+  </checkboxgroup>
+</choiceresponse>
+</problem>

@@ -1,0 +1,67 @@
+<vertical display_name="Assignment">
+  <openassessment url_name="a79503192dc141b499b5bdd08a7f685f" submission_start="2001-01-01T00:00:00+00:00" submission_due="2023-05-16T23:59:00+00:00" text_response_editor="text" file_upload_response="required" file_upload_type="pdf-and-image" white_listed_file_types="pdf,gif,jpg,jpeg,jfif,pjpeg,pjp,png" allow_multiple_files="True" allow_latex="False" prompts_type="html" teams_enabled="False" selected_teamset_id="" show_rubric_during_response="False">
+    <title>Open Response Assessment</title>
+    <assessments>
+      <assessment name="staff-assessment" enable_flexible_grading="False" required="True"/>
+    </assessments>
+    <prompts>
+      <prompt>
+        <description>&lt;p style="margin-bottom: 1.416em; font-size: 16px; color: #3c3c3c; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif; line-height: 1.6em !important;"&gt;Use the&amp;nbsp;&lt;a title="Phase III Outbrief Self Evaluation.doc" href="http://local.overhang.io/asset-v1:BoeingLearning+UH2855+2023_Spring+type@asset+block@Phase_III_Outbrief_Self_Evaluation.doc" style="color: #1d9dd9;"&gt;&lt;em&gt;rubric provided&lt;/em&gt;&lt;/a&gt;&amp;nbsp;and evaluate yourself. Detail description of what every criteria means is provided in the rubrics that are on the&amp;nbsp;&lt;a href="http://apps.local.overhang.io/learning/course/course-v1:BoeingLearning+UH2855+2023_Spring/home" target="_blank" style="color: #1d9dd9;" rel="noopener"&gt;front page of BoeingLearning&lt;/a&gt;. Note that your responses will have no effect on your grade. Submit your responses as a PDF to this assignment.&lt;/p&gt;
+&lt;p style="margin-bottom: 1.416em; font-size: 16px; color: #3c3c3c; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif; line-height: 1.6em !important;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strong&gt;Points&lt;/strong&gt;&amp;nbsp; &amp;nbsp;10&lt;/p&gt;
+&lt;p style="margin-bottom: 1.416em; font-size: 16px; color: #3c3c3c; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif; line-height: 1.6em !important;"&gt;&lt;strong&gt;Submitting&lt;/strong&gt;&amp;nbsp; &amp;nbsp;a file upload&lt;/p&gt;
+&lt;p style="margin-bottom: 1.416em; font-size: 16px; color: #3c3c3c; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif; line-height: 1.6em !important;"&gt;&amp;nbsp; &lt;strong&gt;File Types&amp;nbsp;&lt;/strong&gt; &amp;nbsp;pdf&lt;/p&gt;</description>
+      </prompt>
+    </prompts>
+    <rubric>
+      <criterion feedback="optional">
+        <name>Ideas</name>
+        <label>Ideas</label>
+        <prompt>Determine if there is a unifying theme or main idea.</prompt>
+        <option points="0">
+          <name>Poor</name>
+          <label>Poor</label>
+          <explanation>Difficult for the reader to discern the main idea.  Too brief or too repetitive to establish or maintain a focus.</explanation>
+        </option>
+        <option points="3">
+          <name>Fair</name>
+          <label>Fair</label>
+          <explanation>Presents a unifying theme or main idea, but may include minor tangents.  Stays somewhat focused on topic and task.</explanation>
+        </option>
+        <option points="5">
+          <name>Good</name>
+          <label>Good</label>
+          <explanation>Presents a unifying theme or main idea without going off on tangents.  Stays completely focused on topic and task.</explanation>
+        </option>
+      </criterion>
+      <criterion>
+        <name>Content</name>
+        <label>Content</label>
+        <prompt>Assess the content of the submission</prompt>
+        <option points="0">
+          <name>Poor</name>
+          <label>Poor</label>
+          <explanation>Includes little information with few or no details or unrelated details.  Unsuccessful in attempts to explore any facets of the topic.</explanation>
+        </option>
+        <option points="1">
+          <name>Fair</name>
+          <label>Fair</label>
+          <explanation>Includes little information and few or no details.  Explores only one or two facets of the topic.</explanation>
+        </option>
+        <option points="3">
+          <name>Good</name>
+          <label>Good</label>
+          <explanation>Includes sufficient information and supporting details. (Details may not be fully developed; ideas may be listed.)  Explores some facets of the topic.</explanation>
+        </option>
+        <option points="5">
+          <name>Excellent</name>
+          <label>Excellent</label>
+          <explanation>Includes in-depth information and exceptional supporting details that are fully developed.  Explores all facets of the topic.</explanation>
+        </option>
+      </criterion>
+      <feedbackprompt>(Optional) What aspects of this response stood out to you? What did it do well? How could it be improved?
+</feedbackprompt>
+      <feedback_default_text>I think that this response...
+</feedback_default_text>
+    </rubric>
+  </openassessment>
+</vertical>

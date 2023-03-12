@@ -1,0 +1,9 @@
+<problem display_name="Pre Test" markdown="&gt;&gt;A simplified industry perspective of the feasibility set is a technical approach that has some maturity. &lt;&lt;&#10;&#10;( ) True&#10;(x) False&#10;">
+<multiplechoiceresponse>
+  <label>A simplified industry perspective of the feasibility set is a technical approach that has some maturity. </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

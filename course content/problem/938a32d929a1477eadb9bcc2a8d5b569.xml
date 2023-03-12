@@ -1,0 +1,10 @@
+<problem display_name="6" markdown="&gt;&gt;What term is used to state the value that the concept promises to deliver?&lt;&lt;&#10;&#10;(x) Value Proposition&#10;( ) Feature and Benefit&#10;( ) Solution Concept&#10;">
+<multiplechoiceresponse>
+  <label>What term is used to state the value that the concept promises to deliver?</label>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">Value Proposition</choice>
+    <choice correct="false">Feature and Benefit</choice>
+    <choice correct="false">Solution Concept</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

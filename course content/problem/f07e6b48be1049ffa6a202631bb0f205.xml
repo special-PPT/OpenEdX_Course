@@ -1,0 +1,9 @@
+<problem display_name="7" markdown="&gt;&gt;Innovation is the process of translating an idea or invention into hardware, software, process or service offerings that create value for stakeholders?&lt;&lt;&#10;&#10;(x) True&#10;( ) False&#10;">
+<multiplechoiceresponse>
+  <label>Innovation is the process of translating an idea or invention into hardware, software, process or service offerings that create value for stakeholders?</label>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

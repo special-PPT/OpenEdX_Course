@@ -1,0 +1,9 @@
+<problem display_name="2" markdown="&gt;&gt;A graphical system representation helps to understand and communicate a solution concept?&lt;&lt;&#10;&#10;(x) True&#10;( ) False&#10;">
+<multiplechoiceresponse>
+  <label>A graphical system representation helps to understand and communicate a solution concept?</label>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

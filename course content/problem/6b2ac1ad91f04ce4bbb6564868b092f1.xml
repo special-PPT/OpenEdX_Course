@@ -1,0 +1,8 @@
+<problem display_name="Pre Test" markdown="null">
+<stringresponse answer="the correct answer" type="ci">
+<label>Do you think these videos helped with clarifying the process that we described in Phase 1 and 2? Are
+there any additional components that need to be explained?</label>
+<additional_answer answer="optional acceptable variant of the correct answer"/>
+  <textline size="270"/>
+</stringresponse>
+</problem>
