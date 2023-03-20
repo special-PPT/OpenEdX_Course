@@ -1,0 +1,8 @@
+--- a/lms/urls.py
++++ b/lms/urls.py
+@@ -156,6 +156,7 @@
+     url(r'^api/user/', include('openedx.core.djangoapps.user_api.urls')),
+     url(r'^notifier_api/', include('notifier_api.urls')),
+     url(r'^reverification/', include('reverification.urls')),
++    url(r'^recommendation/', include('tutorrecommendation.urls')),
+ ) + urlpatterns
