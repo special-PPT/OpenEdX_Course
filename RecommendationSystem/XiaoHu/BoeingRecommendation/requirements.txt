@@ -7,6 +7,5 @@ nltk
 setuptools>=58.0.0
 scikit-learn
 
-
 # Add other dependencies here
 git+https://github.com/gyscs/course_recommendation.git#egg=course_recommendation
