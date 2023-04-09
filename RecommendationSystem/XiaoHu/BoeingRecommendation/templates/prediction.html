@@ -7,9 +7,25 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     </head>
     <body>
-        <h2>Predictions from model : {{data}}</h2>
+        <!--<h2>Predictions from model : {{data}}</h2>-->
+        <br/>
+        <div class="container">
+            {% for i in data %}
+            <div class="card-header" style="background-color:lightblue">
+                {{i.course_name}}
+            </div>
+            <br/>
+            {% endfor %}
+        </div>
+        <!--<ul>
+            {% for i in data %}
+                <li>{{i.title}}</li>
+            {% endfor %}
+        </ul>-->
     </body>
 </html>
