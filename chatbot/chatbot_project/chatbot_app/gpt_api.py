@@ -2,7 +2,7 @@ import openai
 import sys
 import os
 
-openai.api_key = "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"
+openai.api_key = "sk-your key"
 messages = []
 course_info = "Here I give you the information of a particular class. " \
               "Please answer my following question based on this information." \
