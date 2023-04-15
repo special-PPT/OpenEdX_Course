@@ -21,6 +21,8 @@ Create an Open EdX course using content aligned to a CANVAS Course utilized at V
 ## Project Definition
 This google doc will have a detailed description of our [project definition](https://docs.google.com/document/d/1tpJ0md0m4MdL465Ara74Fs_J4_8csIGBpq9ic83vQcE/edit#)
 
+## Project Design
+The google file of [Project Design](https://docs.google.com/document/d/1Yfuxl1WteRZztBhGlTBhQCbr5fD0wYRs-hSMM8_Svh4/edit)
 
 ## Project Schedule
 We use Cartt Chart to record our progress, it is the link [Gantt Chart](https://docs.google.com/spreadsheets/d/1MzGSd8dz8q-7yN98zED0fRNplgpkMKvnIX1RUTRVGwM/edit#gid=0)
