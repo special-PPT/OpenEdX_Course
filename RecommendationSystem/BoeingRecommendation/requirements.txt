@@ -1,0 +1,11 @@
+Django==3.2.10
+djangorestframework==3.12.4
+numpy
+pandas
+docx2txt
+nltk
+setuptools>=58.0.0
+scikit-learn
+
+# Add other dependencies here
+git+https://github.com/gyscs/course_recommendation.git#egg=course_recommendation

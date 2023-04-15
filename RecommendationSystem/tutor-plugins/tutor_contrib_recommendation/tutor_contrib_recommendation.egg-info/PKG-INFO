@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: tutor-contrib-recommendation
+Version: 0.1.0
+Summary: recommendation plugin for Tutor
+Home-page: https://github.com/myusername/tutor-contrib-recommendation
+Author: Xiao Hu
+License: AGPLv3
+Project-URL: Code, https://github.com/myusername/tutor-contrib-recommendation
+Project-URL: Issue tracker, https://github.com/myusername/tutor-contrib-recommendation/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+
+recommendation plugin for `Tutor <https://docs.tutor.overhang.io>`__
+===================================================================================
+
+Installation
+------------
+
+::
+
+    pip install git+https://github.com/myusername/tutor-contrib-recommendation
+
+Usage
+-----
+
+::
+
+    tutor plugins enable recommendation
+
+
+License
+-------
+
+This software is licensed under the terms of the AGPLv3.
+
