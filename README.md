@@ -19,7 +19,7 @@ Create an Open EdX course using content aligned to a CANVAS Course utilized at V
 ## Project Documenation
 
 1. Users can use course content that we develp in their own Open EdX instance, check [coursecontent](./CourseContent/README.md) 
-2. Two Features can be used dependently and integrated with Open EdX, check [recommendationsystem](./RecommendationSystem/README.md) and [chatbot](./Chatbot/README.md)
+2. Two Features can be used dependently and integrated with Open EdX, check [recommendationsystem](./RecommendationSystem/README.md) and [chatbot](./chatbot/README.md)
 
 ## Project Definition
 This google doc will have a detailed description of our [project definition](https://docs.google.com/document/d/1tpJ0md0m4MdL465Ara74Fs_J4_8csIGBpq9ic83vQcE/edit#)
