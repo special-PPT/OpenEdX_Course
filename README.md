@@ -7,16 +7,19 @@ Group Members:
 
 ## Project Description
 
-Create an Open EdX course using content aligned to a CANVAS Course utilized at Virginia Tech
+Create an Open EdX course using content aligned to a CANVAS Course utilized at Virginia Tech With two features exteneding Open EdX platform. One is to upload resume and get recommendation courses, another is customized chatbot.
 
 ## Requirements
 
-1. Course needs to be accessible via FireFox or Microsoft Edge
-2. Embed videos sourced from server or loaded to the site
-3. Develop quizzes, assignments and method of grading and displaying grading
-4. Propose/Create interactive or engaging content delivery
-5. A minimum of one month of course content must be developed
-6. Provide recommendation on badging or certificate offerings
+1. Develop Course Content
+2. Implement Recommendation Feature
+3. Implement Chatbot Feature
+4. Integration Two Features with Open EdX platform
+
+## Project Documenation
+
+1. Users can use course content that we develp in their own Open EdX instance, check [coursecontent](./CourseContent/README.md) 
+2. Two Features can be used dependently and integrated with Open EdX, check [recommendationsystem](./RecommendationSystem/README.md) and [chatbot](./Chatbot/README.md)
 
 ## Project Definition
 This google doc will have a detailed description of our [project definition](https://docs.google.com/document/d/1tpJ0md0m4MdL465Ara74Fs_J4_8csIGBpq9ic83vQcE/edit#)
@@ -25,7 +28,7 @@ This google doc will have a detailed description of our [project definition](htt
 The google file of [Project Design](https://docs.google.com/document/d/1Yfuxl1WteRZztBhGlTBhQCbr5fD0wYRs-hSMM8_Svh4/edit)
 
 ## Project Schedule
-We use Cartt Chart to record our progress, it is the link [Gantt Chart](https://docs.google.com/spreadsheets/d/1MzGSd8dz8q-7yN98zED0fRNplgpkMKvnIX1RUTRVGwM/edit#gid=0)
+We use KanBan to record our progress, it is the link [KanBan](https://jonilda.atlassian.net/jira/core/projects/CAP/board?atlOrigin=eyJpIjoiYTYwMTk1YzFjNGFjNGI5OThhM2RhNDBmMTBmNjNiMjciLCJwIjoiaiJ9)
 
 ## License
 
