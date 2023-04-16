@@ -1,5 +1,6 @@
 // Collapsible
 var coll = document.getElementsByClassName("collapsible");
+const startmessage = "Hello! This is the chatbot of BoeingLearning. How can I help you today &#x1F603;?";
 
 for (let i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function () {
@@ -35,7 +36,7 @@ function getTime() {
 
 // Gets the first message
 function firstBotMessage() {
-    let firstMessage = "Hello! How can I assist you today?"
+    let firstMessage = startmessage
     document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
     let time = getTime();
@@ -53,7 +54,7 @@ function getResponse() {
 
     let response;
     if (userText === "") {
-        response = "Hello! How can I assist you today?";
+        response = startmessage
         displayChatResponse(response);
         return;
     }

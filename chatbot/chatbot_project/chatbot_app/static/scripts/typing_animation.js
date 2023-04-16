@@ -1,7 +1,6 @@
 
 function showTypingIndicator() {
         // Create the main container div
-    console.log('show typing indicator');
     const typingContainer = document.createElement('div');
     typingContainer.classList.add('messages__item--typing');
 
@@ -19,7 +18,6 @@ function showTypingIndicator() {
 }
 
 function hideTypingIndicator() {
-    console.log('hide typing indicator');
     const typingContainer = document.querySelector('.messages__item--typing');
     typingContainer.remove();
 
