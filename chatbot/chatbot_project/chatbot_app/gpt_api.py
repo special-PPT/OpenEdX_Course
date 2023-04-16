@@ -1,7 +1,7 @@
 import openai
 from .web_crawler import get_page_text
 
-openai.api_key = "sk-Your Key"
+openai.api_key = "sk-your key"
 messages = []
 
 # get course content through web crawler
