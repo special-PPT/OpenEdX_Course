@@ -30,6 +30,9 @@ The google file of [Project Design](https://docs.google.com/document/d/1Yfuxl1Wt
 ## Project Schedule
 We use KanBan to record our progress, it is the link [KanBan](https://jonilda.atlassian.net/jira/core/projects/CAP/board?atlOrigin=eyJpIjoiYTYwMTk1YzFjNGFjNGI5OThhM2RhNDBmMTBmNjNiMjciLCJwIjoiaiJ9)
 
+## Other Files
+[ChatBot Development](https://docs.google.com/presentation/d/1BCaDcF8IOFTL8uoQxZ4tl5EUxP_qEfQ4zSsWRyw1ao4/edit#slide=id.p)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
