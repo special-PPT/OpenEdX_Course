@@ -1,0 +1,7 @@
+Django==3.2.10
+djangorestframework==3.12.4
+setuptools>=58.0.0
+openai
+bs4
+
+# Add other dependencies here

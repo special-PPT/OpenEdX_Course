@@ -1,0 +1,40 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Resume - BoeingLearning</title>
+    <link rel="stylesheet" href="{%  static 'css/upload_resume.css' %}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-md-8 offset-md-2">
+                <div class="card">
+                    <div class="card-header bg-primary text-white text-center banner-color">
+                        <h2>BoeingLearning</h2>
+                        <h4>Upload Your Resume And We Find Courses For You!</h4>
+                    </div>
+                    <div class="card-body">
+                        <form method="POST" enctype="multipart/form-data">
+                            {% csrf_token %}
+                            {{ form.user_name.label_tag }}<br>
+                            <input type="text" name="{{ form.user_name.name }}" id="{{ form.user_name.auto_id }}" class="form-control" placeholder="Enter your full name" value="{{ form.user_name.value|default:'' }}">
+                            <br>
+                            {{ form.resume_file.label_tag }}<br>
+                            <input type="file" name="{{ form.resume_file.name }}" id="{{ form.resume_file.auto_id }}" class="form-control-file">
+                            <br>
+                            <button type="submit" class="btn btn-primary banner-color">Upload</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

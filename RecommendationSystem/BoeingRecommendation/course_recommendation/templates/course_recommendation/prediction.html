@@ -1,0 +1,46 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Predictions</title>
+        <link rel="stylesheet" href="{%  static 'css/prediction.css' %}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="{%  static 'scripts/course_description.js' %}"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </head>
+    <body>
+        <!--<h2>Predictions from model : {{data}}</h2>-->
+        <br/>
+        <div class="container">
+            {% for i in data %}
+                <div class="course">
+                    <div class="course-preview">
+                        <h6>Category</h6>
+                        <h4>{{ i.category }}</h4>
+                        <p>{{ i.difficuly_rating }}</p>
+                    </div>
+                    <div class="course-info">
+                        <h6>Course</h6>
+                        <h4>{{i.course_name}}</h4>
+                        <p class="course-description">{{ i.course_description }}</p>
+                        <a href="{{ i.course_url }}">
+                            <button class="course-continue-btn">Continue</button>
+                        </a>
+                    </div>
+                </div>
+            <br/>
+            {% endfor %}
+        </div>
+        <!--<ul>
+            {% for i in data %}
+                <li>{{i.title}}</li>
+            {% endfor %}
+        </ul>-->
+    </body>
+</html>
